@@ -1,8 +1,0 @@
----
-title: "Masters of Data Science Website"
-author: "Allen Miller"
-date: "11/8/2020"
-output: html_document
----
-
-#Doing Data Science Website Code
