@@ -1,0 +1,8 @@
+name: "Masters of Data Science Website"
+navbar:
+  title: "Masters of Data Science Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CLT"
+      href: CLT.html
