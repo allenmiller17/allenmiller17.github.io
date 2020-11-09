@@ -4,5 +4,5 @@ navbar:
   left:
     - text: "About Me"
       href: index.html
-    - text: "About me"
+    - text: "CLT"
       href: CLT.html
