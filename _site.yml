@@ -2,7 +2,7 @@ name: "Masters of Data Science Website"
 navbar:
   title: "Masters of Data Science Website"
   left:
-    - text: "Home"
+    - text: "About Me"
       href: index.html
-    - text: "CLT"
+    - text: "About me"
       href: CLT.html
